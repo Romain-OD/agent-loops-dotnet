@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EvalLoop/EvalLoop.csproj" />
+  <Project Path="InnerLoop/InnerLoop.csproj" />
+  <Project Path="Support/Support.csproj" />
+</Solution>

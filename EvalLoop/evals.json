@@ -1,0 +1,7 @@
+[
+  { "prompt": "Where is my parcel? It's #1043.", "expectedTool": "TrackShipment" },
+  { "prompt": "When was #1042 delivered and what did I pay?", "expectedTool": "GetOrder" },
+  { "prompt": "The mug in #1042 arrived broken. Can I get my money back?", "expectedTool": "CheckRefundEligibility" },
+  { "prompt": "Can I return the headphones from #1043?", "expectedTool": "CheckRefundEligibility" },
+  { "prompt": "I want a refund for #1042, it's cracked.", "expectedTool": "CheckRefundEligibility" }
+]

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RefundPolicy.Tests/RefundPolicy.Tests.csproj" />
+  <Project Path="RefundPolicy/RefundPolicy.csproj" />
+</Solution>
